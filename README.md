@@ -3,7 +3,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 
-![alt text](https://github.com/[nuhgnc]/[kodluyoruzilkrepo]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/nuhgnc/kodluyoruzilkrepo/blob/main/image.jpg?raw=true)
 
 ## Installation
 
